@@ -25,11 +25,11 @@ pip install seaborn
 
 2.Clone this repository .
 ```
-https://github.com/karthikeyanthanigai/Superconductivty-regression-problem-with-Random-forest.git
+https://github.com/karthikeyanthanigai/Computer-hardware-regression-problem-.git
 ```
 3.Open command line and set the directory to the cloned repository.
 ```
-cd Superconductivty-regression-problem-with-Random-forest
+cd Computer-hardware-regression-problem-
 ```
 4.Enter the command.
 ```
